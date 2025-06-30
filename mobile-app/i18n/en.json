@@ -1,0 +1,10 @@
+{
+  "COMPLEX_WOUND": "Complex wound",
+  "COMPLEX_WOUND_DESCRIPTION": "This is a complex wound that requires immediate medical attention. Please consult a healthcare professional for further evaluation and treatment.",
+  "IMMEDIATELY_TREATABLE": "Immediately Treatable",
+  "IMMEDIATELY_TREATABLE_DESCRIPTION": "This wound is immediately treatable. Please follow the recommended treatment plan and consult a healthcare professional if needed.",
+  "NO_ULCER": "No Ulcer",
+  "NO_ULCER_DESCRIPTION": "No ulcer detected in the image.",
+  "TREATABLE_WITHIN_4_WEEKS": "Treatable within 4 weeks",
+  "TREATABLE_WITHIN_4_WEEKS_DESCRIPTION": "This wound is treatable within 4 weeks. Please follow the recommended treatment plan and consult a healthcare professional if needed."
+}
